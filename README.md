@@ -3,7 +3,7 @@
 Interactive Streamlit application for customer churn prediction with local explanations using SHAP waterfall plots.
 
 ## 🚀 Live demo
-👉(https://churn-prediction-shap.streamlit.app/)
+👉 https://churn-prediction-shap.streamlit.app
 
 ## 🔍 What does this app do?
 - Predicts whether a bank customer is likely to churn

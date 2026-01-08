@@ -14,8 +14,9 @@ Black-box models are not enough in banking.
 This app demonstrates how ML predictions can be made transparent and interpretable.
 
 ## 📸 Screenshots
-![Overview](screenshots/app_overview.png)
-![SHAP](screenshots/shap_waterfall.png)
+![App overview](images/churn_1.png)
+![SHAP explanation](images/churn_2.png)
+![Customer data](images/churn_3.png)
 
 ## 🚀 How to run locally
 ```bash
